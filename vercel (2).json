@@ -1,7 +1,0 @@
-{
-  "cleanUrls": true,
-  "trailingSlash": false,
-  "redirects": [
-    { "source": "/", "destination": "https://www.google.com", "permanent": false }
-  ]
-}
