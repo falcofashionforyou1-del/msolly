@@ -1,7 +1,5 @@
 {
   "cleanUrls": true,
   "trailingSlash": false,
-  "redirects": [
-    { "source": "/", "destination": "https://msolly.vercel.app", "permanent": false }
-  ]
+  
 }
