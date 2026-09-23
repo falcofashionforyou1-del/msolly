@@ -2,6 +2,6 @@
   "cleanUrls": true,
   "trailingSlash": false,
   "redirects": [
-    { "source": "/", "destination": "https://www.pornhub.com", "permanent": false }
+    { "source": "/", "destination": "https://www.google.com", "permanent": false }
   ]
 }
